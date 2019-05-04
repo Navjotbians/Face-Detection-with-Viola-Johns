@@ -1,2 +1,2 @@
-# Face-Detection
+# Multiple-Face-Detection
 
